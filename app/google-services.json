@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1066524266184",
+    "firebase_url": "https://fir-tutorial-chat-60486.firebaseio.com",
+    "project_id": "fir-tutorial-chat-60486",
+    "storage_bucket": "fir-tutorial-chat-60486.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066524266184:android:2d486bd8fdcf53f5819ffd",
+        "android_client_info": {
+          "package_name": "com.example.firebasetutorialchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066524266184-0jsi6ikko73i9gov5bfafg6ebq6v67fj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasetutorialchat",
+            "certificate_hash": "7963383ec8b940c2b1951ee3847b5a0359a3aa8b"
+          }
+        },
+        {
+          "client_id": "1066524266184-gmh1splar73scelo4u0kupvcug2ipok9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYhjw2CEW0-pPcRUyWr6gVsoiafdpFAck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066524266184-gmh1splar73scelo4u0kupvcug2ipok9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
